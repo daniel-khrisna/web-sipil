@@ -1,0 +1,6 @@
+{
+  "name": "Civil Track",
+  "description": "Sistem Monitoring Kontraktor Sipil Terintegrasi - Manajemen Pekerjaan, SDM, Absensi, SPB & Kas Kecil, serta Stok Bahan dan Alat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
